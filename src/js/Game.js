@@ -1,4 +1,4 @@
-import PlayingField from './PlayinField';
+import PlayingField from './PlayingField';
 
 export default class Game {
   constructor() {
